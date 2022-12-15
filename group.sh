@@ -2,3 +2,7 @@
 #so i will put some rules
 Dont give developpers access to your github account
 avoid broke men
+#list of boys
+paul
+peter
+nwa
