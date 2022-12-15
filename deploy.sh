@@ -2,3 +2,6 @@
 docker
 maven
 sonarqube
+grafana
+promethus
+new relic
